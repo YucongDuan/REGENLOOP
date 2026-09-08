@@ -1,6 +1,8 @@
 # REGENLOOP
 
-**Personal Regenerative Ecosystem and AI Co-evolution System**
+Created by Yucong Duan (段玉聪).
+
+Personal Regenerative Ecosystem and AI Co-evolution System
 
 > AI should not live your life for you. It should help human capability, relationships, contribution, and future options grow again.
 
